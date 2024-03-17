@@ -1,2 +1,0 @@
-# CRUDHandler
-practicing CRUD management
